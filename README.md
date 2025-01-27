@@ -1,18 +1,15 @@
-# SIEM
+# Security Information & Event Management (SIEM)
+ I did the SIEM practice labs in our University SOC facility as well as on self-training platforms on the internet.
+## Project Objective
+The objective was to gain hands-on experience in monitoring, detecting and responding to security events within an organization's systems.
+## Tools 
+- Splunk
+- Microsoft Sentinel
 
-# Project Objective
--Here you want to outline your project objective/goal - 
+## Skills Gained
+- Collecting and filtering logs for analysis
+- Ability to identify abnormal patterns and indicators of potential compromise before they spread further
+- Configuring and monitoring security alerts in real time, ensuring that potential security incidents are detected as quickly as possible
+- Basic insights of how to perform incident management, i.e respond to and manage security incidents, including containment, investigation, and remediation.
 
-Building a Comprehensive SIEM Solution. My goals are to centralize log collection, correlation, and analysis, enabling proactive threat detection, incident response, and improved overall cybersecurity posture.The project aims to provide real-time visibility into security events and enhance incident response capabilities.
-
-# Tools 
--List of tools used within the project-
-e.g. Azure
-
-# Skills Gained
--List and explain the skills. Show why they are key for Cyber Security-
-
-Security Architecture - Developed a holistic security architecture that considered the entire system, addressing weaknesses and ensuring a cohesive security strategy.
-
-# Outcomes 
-- Talk about what you achieved, use screenshots!-
+## Outcomes 
